@@ -39,7 +39,9 @@ robot --version
 pip install robotframework
 pip install robotframework-seleniumlibrary
 
-## ดาวน์โหลดและตั้งค่า WebDriver ที่ต้องการ เช่น ChromeDriver
+## คู่มือ Robot Framework 
+https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
+
 ## ตรวจสอบการติดตั้ง Robot Framework
 robot --version
 เมื่อทำตามขั้นตอนทั้งหมดนี้ คุณจะสามารถเริ่มต้นใช้งาน Robot Framework สำหรับการทดสอบระบบของคุณได้!
