@@ -37,8 +37,10 @@ robot --version
 
 #### ตัวอย่างการติดตั้งทั้งหมดในบรรทัดคำสั่ง
 
-```bash pip install robotframework
-pip install robotframework-seleniumlibrary ```
+```bash
+pip install robotframework
+pip install robotframework-seleniumlibrary 
+```
 
 ## คู่มือ Robot Framework 
 https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
@@ -50,4 +52,4 @@ robot --version
 ## ขั้นตอนการรันไฟล์
 python -m robot ชื่อไฟล์.robot
 
-### ไฟล์ที่ลองเล่นได้คือไฟล์ TC-01.robot
+## ไฟล์ที่ลองเล่นได้คือไฟล์ TC-01.robot
