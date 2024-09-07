@@ -36,7 +36,8 @@ robot --version
 หากการติดตั้งถูกต้อง จะแสดงเวอร์ชันของ Robot Framework ขึ้นมา
 
 #### ตัวอย่างการติดตั้งทั้งหมดในบรรทัดคำสั่ง
-``` pip install robotframework
+
+```bash pip install robotframework
 pip install robotframework-seleniumlibrary ```
 
 ## คู่มือ Robot Framework 
